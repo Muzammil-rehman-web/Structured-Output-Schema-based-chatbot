@@ -32,6 +32,5 @@ This approach is useful for:
 - LLaMA 3.3 (70B)
 - TypedDict + Annotated schemas
 
-
-git clone https://github.com/your-username/groq-structured-output.git
-cd groq-structured-output
+# Auther:
+Muzammil Rehman
